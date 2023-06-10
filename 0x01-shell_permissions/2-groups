@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 groups
+=======
+id
+>>>>>>> 2445e7ba1e94088e516128ddc25f310c52b451ec
